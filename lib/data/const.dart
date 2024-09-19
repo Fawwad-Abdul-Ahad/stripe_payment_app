@@ -1,0 +1,3 @@
+const String stripePublicAPI = 'pk_test_51NhfYXIxjUtwIMPadKQV6OoBJH8XYfcqtorNZ4qHiqCk36QMcv3qug3UcbKqXnwaQ4vcHfwEEVjHTmJhhQFTwjp300Amv3M7BN';
+
+const String stripeSecretKey = 'sk_test_51NhfYXIxjUtwIMPaO8pPJ6ZRdh3fD7rIEGtqg6dDSgs5yiZYBgLi1OqgMdA8nrIdYQqYMJXnHiElCkwwfXJ599Pm00Pd3jxGHt';
